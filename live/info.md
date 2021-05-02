@@ -6,7 +6,7 @@
 
 ---
 
-## 获取用户对应的直播间状态
+## 获取用户对应的直播间状态（失效，响应码-412，提示请求被拦截）
 
 > http://api.live.bilibili.com/room/v1/Room/getRoomInfoOld
 
